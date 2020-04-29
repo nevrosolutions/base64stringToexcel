@@ -1,0 +1,14 @@
+.panel{
+  margin-top: 15%;
+  margin-right: 33%;
+  margin-bottom: 33%;
+  margin-left:40%;
+  width: 33%;
+  height: 33%;
+}
+.button{
+  width: 250px;
+  height: 50px;
+  color: aqua;
+  background: gray;
+}
